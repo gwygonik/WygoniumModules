@@ -4,7 +4,7 @@ ORBsq Vi is an algorithmic CV generator. It is based on an original hardware mod
 
 <img src="site/ORBsqVi_UI.png" width="350" alt="ORBsq Vi main interface in its default state" />
 
-At it's core, ORBsq Vi generates stepped sequences using an orbital path around a configurable point (**Base**) in a 2D noise field. The size of the orbit can be modified to be very small, with minimal changes in noise, to very large with large changes in the noise using the (**Range**) parameter.
+At its core, ORBsq Vi generates stepped sequences using an orbital path around a configurable point (**Base**) in a 2D noise field. The size of the orbit can be modified to be very small, with minimal changes in noise, to very large with large changes in the noise using the (**Range**) parameter.
 
 Additionally, the orbit can be set to drift slightly on its circular path (**Drift**); moving the slider above the centerline will drift forward, while below centerline while reverse the drift direction. There are three different drift patterns, selectable via a toggle switch below the **Drift** slider. These are **Flat**, **Hemisphere**, and **Sphere**. Flat moves all the steps together, while Hemisphere and Sphere introduce sinusoidal offsets between PI and 2*PI. Finally, the speed of the drifting can be adjusted with the knob below the drift type.
 
