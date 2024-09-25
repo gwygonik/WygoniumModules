@@ -24,7 +24,7 @@ ORBsq Vi provides three CV outputs, each with their own trigger output. **Main**
 
 ## Video demos (YouTube):
 
-[![ORBsq Vi demo video](https://img.youtube.com/vi/-XcHFA5aAKg/maxresdefault.jpg)](https://youtu.be/-XcHFA5aAKg)
+[![ORBsq Vi demo video](site/vidcover.jpg)](https://youtu.be/m9-blrdRVsM)
 
 ## CPU Usage Note
 
